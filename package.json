@@ -1,5 +1,5 @@
 {
-    "name": "obsidian-amoled-theme",
+    "name": "vanilla-amoled-theme",
     "version": "1.0.0",
 	"scripts": {
 		"version": "node version-bump.mjs && git add manifest.json versions.json"

@@ -1,6 +1,6 @@
-# Obsidian AMOLED Theme
-A simple AMOLED theme for your ultra-dark theme needs!
+# Vanilla AMOLED Theme
+A simple Obsidian AMOLED theme for your ultra-dark theme needs!
 
-![[sample-screenshot.png]]
+![Sample screenshot of the Vanilla AMOLED theme](sample-screenshot.png)
 
-This theme was created out of a need for a darker yet vanilla-like theme, as well as a theme that takes full advantage of AMOLED screens by pitching the background fully black.
+This theme was created out of a need for a darker yet vanilla-like Obsidian theme, as well as a theme that takes full advantage of AMOLED screens by pitching the background fully black.
