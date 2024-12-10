@@ -8,3 +8,4 @@ This theme was created out of a need for a darker yet vanilla-like Obsidian them
 ## Forks
 Check out these forks and their various improvements, made by fellow developers : 
 - **[Sskki-exe/vanilla-amoled-theme-color](https://github.com/Sskki-exe/vanilla-amoled-theme-color)** : *Adds coloured headings inspired by [Insanum's Obsidian Nord Theme](https://github.com/insanum/obsidian_nord).*
+- **[darthdemono/AMOLED-Serenity](https://github.com/darthdemono/AMOLED-Serenity)** : *Reworks using softer contrasts and coloured headings (background is however not full-black)*.
