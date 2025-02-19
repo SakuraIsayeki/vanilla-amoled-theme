@@ -1,5 +1,11 @@
-# Vanilla AMOLED Theme
-A simple Obsidian AMOLED theme for your ultra-dark theme needs!
+<h1 align=center>Vanilla AMOLED</h1>
+<h3 align=center>A simple Obsidian AMOLED theme for your ultra-dark theme needs!</h3>
+
+<div align=center>
+	<img alt="Downloads" src="https://img.shields.io/badge/downloads-21423-573E7A?style=for-the-badge&amp;logo=" referrerpolicy="no-referrer">
+</div>
+
+<hr />
 
 ![Sample screenshot of the Vanilla AMOLED theme](sample-screenshot.png)
 
